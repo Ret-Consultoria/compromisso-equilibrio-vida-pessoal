@@ -1,161 +1,220 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/RET_TECNOLOGIA-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTEuMDhWMTJhMTAgMTAgMCAxIDEtNS45My05LjE0Ii8+PHBhdGggZD0ibTkgMTEgMyAzTDIyIDQiLz48L3N2Zz4=&logoColor=white" alt="RET Tecnologia" />
-</p>
-
-<h1 align="center">⚖️ Compromisso com o Equilíbrio<br/>entre Vida Profissional e Pessoal</h1>
-
-<p align="center">
-  <strong>Países com leis de Right to Disconnect reportam mais lucratividade e satisfação.<br/>Burnout não é insígnia de honra — é falha de gestão. Na RET, medimos resultados, não horas.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=220&section=header&text=⚖️%20Equilíbrio%20Vida%20%26%20Trabalho&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RET%20Tecnologia%20•%20Async-First%20%26%20Wellbeing%20Framework&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://rettecnologia.org"><img src="https://img.shields.io/badge/🌐_Site-rettecnologia.org-0A0A0A?style=flat-square" alt="Website" /></a>
-  <a href="https://www.linkedin.com/company/ret-consultoria/"><img src="https://img.shields.io/badge/LinkedIn-RET_Consultoria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:contato@rettecnologia.org"><img src="https://img.shields.io/badge/Email-contato@rettecnologia.org-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Ret-Consultoria"><img src="https://img.shields.io/badge/GitHub-Ret--Consultoria-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://rettecnologia.org"><img src="https://img.shields.io/badge/🌐_Site-rettecnologia.org-0A0A0A?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/company/ret-consultoria/"><img src="https://img.shields.io/badge/LinkedIn-RET_Consultoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contato@rettecnologia.org"><img src="https://img.shields.io/badge/Email-contato@rettecnologia.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ret-Consultoria"><img src="https://img.shields.io/badge/GitHub-Ret--Consultoria-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Right_to_Disconnect-6%2B_Countries-success?style=flat-square" alt="Disconnect" />
+  <img src="https://img.shields.io/badge/Gallup-76%25_Burnout_Prevention-blue?style=flat-square" alt="Gallup" />
+  <img src="https://img.shields.io/badge/Protocol-Async--First-blueviolet?style=flat-square" alt="Async" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>76% dos profissionais experimentam burnout (Gallup). 6+ países legislam o direito à desconexão.<br/>Na RET, equilíbrio não é perk de RH — é arquitetura operacional anti-burnout.</strong>
 </p>
 
 ---
 
-## 🎯 Manifesto Anti-Burnout
+## 📑 Sumário
 
-> *"Medimos resultados, não horas sentadas. Se o entregável está impecável, o horário é irrelevante."*
+- [🎯 Manifesto](#-manifesto)
+- [📈 A Evidência Científica](#-a-evidência-científica)
+- [🏗️ Os 5 Pilares de Equilíbrio](#️-os-5-pilares-de-equilíbrio)
+- [📊 Dashboard de Wellbeing](#-dashboard-de-wellbeing)
+- [📚 Referências e Frameworks](#-referências-e-frameworks)
+- [🤝 Como Contribuir](#-como-contribuir)
+- [🔗 Nossos Outros Compromissos](#-nossos-outros-compromissos)
 
-Na **RET Tecnologia**, rejeitamos a cultura tóxica do "trabalhar até cair". Construímos um ambiente baseado em **confiança, autonomia e foco em resultados** — porque excelência profissional é produto de mentes criativas, descansadas e saudáveis.
+---
 
-### A ciência é clara:
+## 🎯 Manifesto
 
-| Evidência Global 2026 | Fonte |
+> *"Uma equipe exausta entrega código frágil. Uma equipe descansada entrega excelência."*
+
+Na **RET Tecnologia**, rejeitamos a cultura de *hustle porn* que glamouriza o overwork. Operamos com a convicção de que **descanso é infraestrutura produtiva**, não fraqueza. A ciência é inequívoca.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+
+## 📈 A Evidência Científica
+
+| Pesquisa | Resultado | Fonte |
+|----------|-----------|-------|
+| Profissionais que experimentam burnout | **76%** | Gallup Workplace Survey |
+| Produtividade com jornadas > 50h/semana | **Cai drasticamente** | Stanford Economic Research |
+| Empresas com right-to-disconnect: lucro | **+13% profitability** | Columbia University |
+| Custo anual do stress para empregadores US | **US$300B+** | APA / NIOSH |
+| Turnover causado por burnout | **2.6x mais provável** | Deloitte |
+| Recuperação de produtividade pós-férias | **+40% na primeira semana** | Harvard Business Review |
+
+> Burnout não é falha pessoal — é **falha sistêmica de design organizacional**.
+
+---
+
+## 🏗️ Os 5 Pilares de Equilíbrio
+
+### 1. ⏰ Async-First Protocol
+
+Comunicação assíncrona como **padrão operacional**, não exceção:
+
+<details>
+<summary><strong>📋 Response Windows — Nosso Protocolo</strong></summary>
+
+<br/>
+
+| Canal | Expectativa de Resposta | Urgência |
+|-------|------------------------|----------|
+| 📧 **Email** | Até 24h úteis | Baixa |
+| 💬 **Slack (mensagem)** | Até 4h úteis | Normal |
+| 🔴 **Slack (urgente)** | Até 1h | Alta — usar com parcimônia |
+| 📞 **Ligação / Call** | Emergências reais apenas | Crítica |
+| 📝 **Docs / PRs** | Até 48h úteis | Deliberada |
+
+</details>
+
+**Princípio:** Ninguém é obrigado a responder fora do **horário de trabalho acordado**. Respeitar o tempo do outro é respeitar sua saúde.
+
+### 2. 📵 Right to Disconnect — Direito à Desconexão
+
+Alinhados com legislação de 6+ países que **criminalizam contato fora do expediente**:
+
+| País | Legislação | Status |
+|------|-----------|--------|
+| 🇫🇷 França | *Loi El Khomri* (2017) | ✅ Em vigor |
+| 🇪🇸 Espanha | *Ley Orgánica 3/2018* | ✅ Em vigor |
+| 🇵🇹 Portugal | Lei do Teletrabalho (2021) | ✅ Em vigor |
+| 🇮🇪 Irlanda | *Code of Practice* (2021) | ✅ Em vigor |
+| 🇧🇪 Bélgica | Lei de Desconexão (2022) | ✅ Em vigor |
+| 🇨🇦 Canadá (Ontário) | *Working for Workers Act* (2022) | ✅ Em vigor |
+
+> **Na RET:** Mensagens fora do expediente são **scheduled para o próximo dia útil**. Sem exceções.
+
+### 3. 🗓️ No-Meeting Fridays + Focus Time
+
+Proteção estrutural do tempo de deep work:
+
+- 🔇 **Sexta-feira = Zero Reuniões** — Dia dedicado a deep work, side projects ou aprendizagem
+- 🧠 **Focus Time Blocks** — Mínimo 4h/dia de tempo ininterrupto protegido no calendário
+- 📊 **Meeting Budget** — Máximo de 8h/semana em reuniões (vs. média do mercado: 15h+)
+- ⏱️ **Reuniões de 25 ou 50 min** — Nunca 30 ou 60 (buffer de transição)
+
+### 4. 🩺 Wellbeing System Integrado
+
+Saúde mental como infraestrutura, não benefício opcional:
+
+| Pilar | Recurso | Acesso |
+|-------|---------|--------|
+| 🧠 **Saúde Mental** | Psicólogo online subsidiado | Permanente |
+| 🏋️ **Atividade Física** | Auxílio academia / apps fitness | Mensal |
+| 😴 **Recovery Days** | Dias de descanso sem justificativa médica | 4/ano |
+| 🌴 **Férias Obrigatórias** | Mínimo 15 dias consecutivos/ano | Mandatório |
+| 🧘 **Mindfulness** | Acesso a apps de meditação (Headspace/Calm) | Permanente |
+| 🔋 **Sabbatical** | Licença sabática de 30 dias (após 3 anos) | Elegibilidade |
+
+### 5. 📊 Medição Contínua de Wellbeing
+
+Não assumimos que o time está bem — **medimos e agimos:**
+
+<details>
+<summary><strong>📋 Framework de Medição</strong></summary>
+
+<br/>
+
+| Método | Frequência | O que mede |
+|--------|-----------|-----------|
+| **Pulse Check Anônimo** | Semanal | Humor, energia, carga de trabalho |
+| **eNPS (Employee NPS)** | Mensal | Satisfação e lealdade |
+| **1:1 com Leads** | Quinzenal | Saúde individual, blockers |
+| **Burnout Risk Assessment** | Trimestral | Risco de esgotamento por área |
+| **Horas Extras Tracking** | Contínuo | Alerta automático > 45h/semana |
+
+</details>
+
+---
+
+## 📊 Dashboard de Wellbeing
+
+| Indicador | Meta 2026 | Benchmark |
+|-----------|-----------|-----------|
+| 🔥 Incidência de burnout reportado | **< 5%** | Industry avg: 40-76% |
+| ⏰ Horas extras médias / semana | **< 2h** | Industry avg: 8h+ |
+| 😴 Recovery days utilizados | **100%** | Avg: 60% usado |
+| 🧠 Satisfação (eNPS) | **+50** | Top companies: +40 |
+| 📵 Mensagens fora de expediente | **Zero** | Policy enforced |
+| 🌴 Férias médias / ano | **20+ dias** | BR avg: 15 dias |
+
+---
+
+## 📚 Referências e Frameworks
+
+| Framework / Fonte | Contribuição |
 |---|---|
-| Países com Right to Disconnect reportam **ganhos de lucratividade** | Columbia University + Washington Post |
-| Async-first é **default** para managers Gen-Z/Millennial em 2026 | HR Oasis Research |
-| Políticas vagas de remote work são a **#1 causa de turnover** | HR Service Inc. |
-| Burnout afeta **76% dos trabalhadores** pelo menos algumas vezes | Gallup State of Work |
-| Employees com bom work-life balance são **21% mais produtivos** | SHRM / Forbes |
-| Right to Disconnect é **lei** em 6+ países (FR, ES, PT, IE, BE, CA) | Travers Smith / Daily Explainer |
-
-Sua vida fora do trabalho é tão importante quanto sua contribuição dentro dele.
+| **Gallup** | 76% burnout rate global |
+| **Columbia University** | +13% profitability com right to disconnect |
+| **Stanford Economic Research** | Produtividade cai após 50h/semana |
+| **APA / NIOSH** | US$300B+ custo anual de stress |
+| **Deloitte** | 2.6x turnover por burnout |
+| **Legislação EU/CA** | Right to Disconnect laws (6+ países) |
 
 ---
 
-## 🏗️ Práticas para um Equilíbrio Real
+## 🤝 Como Contribuir
 
-### 1. ⏰ Outcome-Based Work — Zero Relógio de Ponto
+Contribuições são bem-vindas! Quer sugerir práticas de wellbeing, compartilhar experiências ou propor melhorias:
 
-Não existe relógio de ponto na RET. Avaliamos **deliverables**, não presença. Pesquisas de 2026 confirmam: outcome-based work é mais produtivo e sustentável.
+1. **Fork** este repositório
+2. Crie uma **branch** (`git checkout -b feature/nova-pratica-wellbeing`)
+3. **Commit** suas mudanças (`git commit -m 'feat: adiciona framework de mental health check'`)
+4. **Push** (`git push origin feature/nova-pratica-wellbeing`)
+5. Abra um **Pull Request**
 
-| O que você pode fazer | Sem pedir permissão | Base |
-|---|---|---|
-| Levar e buscar filhos na escola | ✅ | Autonomia total |
-| Ir à academia ou corrida no meio do dia | ✅ | Saúde integrada |
-| Resolver questões pessoais | ✅ | Confiança > controle |
-| Trabalhar no horário que funciona melhor pra você | ✅ | Peak performance individual |
-| Tirar uma tarde livre após uma entrega intensa | ✅ | Recovery time |
-
-> **Regra:** Os objetivos e prazos dos projetos devem ser cumpridos com excelência. O *como* e o *quando* é decisão sua.
-
-### 2. 📨 Async-First Protocol — Menos Reuniões, Mais Deep Work
-
-Priorizamos comunicação assíncrona para proteger o **deep work** de cada engenheiro — seguindo as best practices de 2026 documentadas pelo Founders Space e Whimsical:
-
-| Ferramenta | Uso | Urgência | Response Window |
-|-----------|-----|----------|----------------|
-| **Slack** | Comunicação rápida | Baixa-Média | Até 4h (horário útil) |
-| **Asana** | Gestão de tarefas | Média | 24h |
-| **GitHub** | Code review, PRs, discussions | Média-Alta | 24h |
-| **Loom** | Updates gravados em vídeo | Substitui reuniões | Async |
-| **Notion** | Documentação de processos e decisões | Referência | Async |
-| **Reunião síncrona** | Apenas quando async não resolve | Alta | Agendada com agenda prévia |
-
-**Princípios do nosso protocol:**
-- 📋 **Document Everything** — toda decisão é registrada, não perdida em calls
-- ⏱️ **Response Windows** — expectativas explícitas de tempo de resposta
-- 🎯 **Intentional Sync** — reuniões síncronas são raras, preparadas e objetivas
-- 🔕 **Meeting-Free Blocks** — blocos protegidos para deep work
-
-**Resultado:** Menos interrupções. Mais código de qualidade. Mais tempo pra vida.
-
-### 3. 🔌 Direito à Desconexão (Right to Disconnect)
-
-Implementamos formalmente o Direito à Desconexão — alinhados com a legislação vigente em **França, Espanha, Portugal, Irlanda, Bélgica e Canadá**, e com pesquisas da Columbia University que confirmam que isso **aumenta lucratividade e produtividade**.
-
-| Prática | Implementação | Base Legal/Científica |
-|---------|--------------|----------------------|
-| Silenciar notificações após expediente | ✅ **Encorajado formalmente** | FR: Loi El Khomri (2017) |
-| Não responder mensagens nos fins de semana | ✅ **Esperado — não exceção** | ES: Ley Orgánica 3/2018 |
-| Férias sem contato profissional | ✅ **Garantido por política** | BE: Right to Disconnect Act |
-| Sem glorificação de horas extras | ✅ **Cultura ativa anti-hustle** | IE: Code of Practice (2021) |
-| Sem penalização por exercer o direito | ✅ **Zero retaliation policy** | Columbia/WashPost Research |
-
-> **Política clara:** Nenhum colaborador será penalizado, preterido para promoção ou julgado negativamente por exercer o direito à desconexão.
-
-### 4. 🧘 Wellbeing System — Saúde como Infraestrutura
-
-Não oferecemos "perks" avulsos — construímos um **sistema de wellbeing** integrado:
-
-| Programa | Descrição | Status |
-|----------|----------|--------|
-| **Mental Health Access** | Acesso a psicólogos e terapeutas com subsídio | ✅ Ativo |
-| **Recovery Days** | Dias de descanso pós-sprint sem descontar férias | ✅ Ativo |
-| **Ergonomics Budget** | Orçamento para setup ergonômico home office | ✅ Ativo |
-| **No-Meeting Fridays** | Sextas-feiras protegidas para deep work ou descanso | ✅ Ativo |
-| **Wellness Check-ins** | 1:1s trimestrais focadas exclusivamente em wellbeing | ✅ Ativo |
-
-### 5. 🗺️ Apoio a Nômades Digitais
-
-Celebramos quem escolhe trabalhar viajando. Nossa infraestrutura 100% remota e assíncrona suporta qualquer fuso horário, qualquer localização.
-
-| Stack do Nômade | Status |
-|----------------|--------|
-| VPN corporativa (WireGuard) | ✅ Disponível |
-| Hardware fornecido (notebook + periféricos) | ✅ Ship para qualquer endereço |
-| Coworking budget mensal | ✅ Reembolsável |
-| Zero restrição geográfica | ✅ Trabalhe de qualquer país |
-| Suporte a múltiplos fusos | ✅ Async-first by design |
-
----
-
-## 📊 Indicadores de Saúde Organizacional
-
-| Métrica | Meta | Frequência | Benchmark Global |
-|---------|------|-----------|-----------------|
-| Score de satisfação (pesquisa anônima) | **4.5+/5.0** | Trimestral | Top employers: 4.2 |
-| Média de horas extras semanais | **< 2h** | Mensal | Tech average: 5h+ |
-| Taxa de burnout reportado | **0%** | Contínuo | Industry: 76% (sometime) |
-| Retenção de talentos | **> 90%** | Anual | Tech average: 82% |
-| Uso de férias | **100%** | Anual | Many companies: 60-70% |
-| No-meeting compliance | **> 90%** | Semanal | Friday protection |
-| Right to Disconnect adherence | **100%** | Contínuo | Enforced |
-
----
-
-## 📚 Frameworks e Referências
-
-- **Columbia University / Washington Post** — Right to Disconnect increases firm profitability
-- **Gallup State of the Global Workplace** — 76% burnout prevalence
-- **França (Loi El Khomri)** — Pioneira em legislação Right to Disconnect (2017)
-- **HR Oasis** — Async-first como default para managers em 2026
-- **SHRM / Forbes** — 21% productivity gain com work-life balance
-- **Founders Space / Whimsical** — Async-first protocol best practices
-- **Amy Edmondson (Harvard)** — Psychological safety em times de engenharia
+> 💡 **Dica:** Siga [Conventional Commits](https://www.conventionalcommits.org/) para mensagens de commit.
 
 ---
 
 ## 🔗 Nossos Outros Compromissos
 
-| Compromisso | Repositório |
-|------------|------------|
-| 📚 Crescimento & Aprendizagem | [compromisso-crescimento-aprendizagem](https://github.com/Ret-Consultoria/compromisso-crescimento-aprendizagem) |
-| 🌍 Impacto Social | [compromisso-impacto-social](https://github.com/Ret-Consultoria/compromisso-impacto-social) |
-| 🌱 Sustentabilidade Ambiental | [compromisso-sustentabilidade-ambiental](https://github.com/Ret-Consultoria/compromisso-sustentabilidade-ambiental) |
-| 🤝 Diversidade & Inclusão | [compromisso-diversidade-equidade-inclusao](https://github.com/Ret-Consultoria/compromisso-diversidade-equidade-inclusao) |
+<table>
+  <tr>
+    <td align="center">📚</td>
+    <td><a href="https://github.com/Ret-Consultoria/compromisso-crescimento-aprendizagem"><strong>Crescimento & Aprendizagem</strong></a></td>
+    <td>Trilhas L&D, DORA metrics, budget pessoal, guildas técnicas</td>
+  </tr>
+  <tr>
+    <td align="center">🌍</td>
+    <td><a href="https://github.com/Ret-Consultoria/compromisso-impacto-social"><strong>Impacto Social</strong></a></td>
+    <td>Open source, mentoria comunitária, Cascavel Framework</td>
+  </tr>
+  <tr>
+    <td align="center">🤝</td>
+    <td><a href="https://github.com/Ret-Consultoria/compromisso-diversidade-equidade-inclusao"><strong>Diversidade & Inclusão</strong></a></td>
+    <td>Psych safety, bias-free hiring, pay equity audits</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><a href="https://github.com/Ret-Consultoria/compromisso-sustentabilidade-ambiental"><strong>Sustentabilidade Ambiental</strong></a></td>
+    <td>Green software, remote-first, carbon-aware computing</td>
+  </tr>
+</table>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer" />
+</p>
 
 <p align="center">
   <sub>
     <strong>RET Tecnologia</strong> · Engenharia de Software & Cibersegurança Ofensiva<br/>
     <a href="https://rettecnologia.org">rettecnologia.org</a> · <a href="mailto:contato@rettecnologia.org">contato@rettecnologia.org</a><br/>
-    <em>Países com Right to Disconnect lucram mais. Burnout é bug de gestão, não feature de dedicação.</em> ⚖️
+    <em>Uma equipe exausta entrega código frágil. Uma equipe descansada entrega excelência. Escolhemos excelência.</em> ⚖️
   </sub>
 </p>
