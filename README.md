@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=220&section=header&text=⚖️%20Equilíbrio%20Vida%20%26%20Trabalho&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RET%20Tecnologia%20•%20Async-First%20%26%20Wellbeing%20Framework&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <a href="https://rettecnologia.org">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%96%EF%B8%8F+Equil%C3%ADbrio+Vida+%26+Trabalho;RET+Tecnologia+%E2%80%A2+Async-First+%26+Wellbeing" alt="Header" />
+  </a>
 </p>
 
 <p align="center">
@@ -42,7 +44,7 @@
 
 Na **RET Tecnologia**, rejeitamos a cultura de *hustle porn* que glamouriza o overwork. Operamos com a convicção de que **descanso é infraestrutura produtiva**, não fraqueza. A ciência é inequívoca.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ## 📈 A Evidência Científica
 
@@ -206,10 +208,6 @@ Contribuições são bem-vindas! Quer sugerir práticas de wellbeing, compartilh
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <sub>
